@@ -32,7 +32,7 @@ def mostrar_menu():
         '11': 'Unidad 2/Sem(5)Tipos de datos, Identificadores/calculos 2.py',
         '12': 'Unidad 2/Sem(6)Aplicación de Conceptos de POO en Python/tarea s6 Aplicación de Conceptos de POO en Python.py',
         '13': 'Unidad 2/Sem(7)Constructores y Destructoress/uso de constructores (__init__) y destructores (__del__)..py',
-
+        '14': 'Unidad 2/Sem(8) Dashboard/Dashboard.py',
 
         # Agrega aquí el resto de las rutas de los scripts
     }
