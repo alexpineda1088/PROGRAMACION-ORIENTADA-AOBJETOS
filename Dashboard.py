@@ -23,7 +23,7 @@ def mostrar_menu():
         '2': 'Unidad 1/Sem(2)ejemplo base/encapsulación/ejemplo encapsulación.py',
         '3': 'Unidad 1/Sem(2)ejemplo base/herencia/ejemplo herencia.py',
         '4': 'Unidad 1/Sem(2)ejemplo base/polimorfismo/ejemplo polimorfismo.py',
-        '5': 'Unidad 1/ejemplo base.py',
+        '5': 'Unidad 1/ejm base.py',
         '6': 'Unidad 1/Sem(3)Promedio_Clima/promedio_clima_poo.py',
         '7': 'Unidad 1/Sem(3)Promedio_Clima/promedio_clima_tradicional.py',
         '8': 'Unidad 1/Sem(4)Ejemplos del mundo real POO/ALQUILER DE ROPA.py',
@@ -31,8 +31,8 @@ def mostrar_menu():
         '10': 'Unidad 2/Sem(5)Tipos de datos, Identificadores/calculos.py',
         '11': 'Unidad 2/Sem(5)Tipos de datos, Identificadores/calculos 2.py',
         '12': 'Unidad 2/Sem(6)Aplicación de Conceptos de POO en Python/tarea s6 Aplicación de Conceptos de POO en Python.py',
-        '13': 'Unidad 2/Sem(7)Constructores y Destructoress/uso de constructores (__init__) y destructores (__del__)..py',
-        '14': 'Unidad 2/Sem(8) Dashboard/Dashboard.py',
+        '13': 'Unidad 2/Sem(7)Constructores y Destructores/uso de constructores (__init__) y destructores (__del__)..py',
+
 
         # Agrega aquí el resto de las rutas de los scripts
     }
