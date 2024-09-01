@@ -1,0 +1,21 @@
+{
+    "productos": [
+        {
+            "id": "001",
+            "nombre": "Camiseta",
+            "cantidad": 10,
+            "precio": 19.99
+        },
+        {
+            "id": "002",
+            "nombre": "Pantalones",
+            "cantidad": 5,
+            "precio": 29.99
+        },
+        {
+            "id": "003",
+            "nombre": "Zapatos",
+            "cantidad": 8,
+            "precio": 49.99
+        }
+    ]}
